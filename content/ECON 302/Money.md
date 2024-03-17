@@ -1,8 +1,3 @@
-## Slides
-![[Slides_final (21).pdf]]
-
-## Notes
-
 > Def: Assets widely used and accepted as payment
 
 >[!missing]  Money $\neq$ Wealth

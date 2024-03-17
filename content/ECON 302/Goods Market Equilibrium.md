@@ -17,4 +17,3 @@ Savings curve is upwards sloping (same reason)
 Factor analysis
 ![[Pasted Image 20240226092552.png|400]]
 ![[Pasted Image 20240226092642.png|400]]
-ADD THESE TO CS

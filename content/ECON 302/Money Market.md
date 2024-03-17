@@ -1,6 +1,3 @@
-# Slides
-![[Slides_final  (2).pdf]]
-# Notes
 ## Money Demand
 [[Money#Money Demand|definition]]
 ### Money Demand Function

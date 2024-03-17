@@ -1,5 +1,3 @@
-![[Lecture 4_final (4).pdf]]
-
 ### Cobb Douglass Production Function
 
 $Y=AK^{\alpha}N^\beta$

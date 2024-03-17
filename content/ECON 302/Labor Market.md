@@ -1,5 +1,3 @@
-![[Lecture 5_final 1.pdf]]
-
 Firm optimal hiring:
 marginal product of labor = real wage  $(MPN = w)$
 

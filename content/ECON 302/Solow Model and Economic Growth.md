@@ -1,5 +1,7 @@
 
-$$\frac{\Delta Y}{Y} = \frac{\Delta A}{A} + \alpha_k \frac{\Delta K}{K} + \alpha_N \frac{\Delta N}{N}$$
+$$
+\frac{\Delta Y}{Y} = \frac{\Delta A}{A} + \alpha_k \frac{\Delta K}{K} + \alpha_N \frac{\Delta N}{N}
+$$
 
 A not directly observed but solved for implicitly
 
@@ -53,8 +55,10 @@ higher $n$ decreases $k_t$ at steady state
 
 **Golden Rule $k_t$:** $f(k^*)(\delta + n)k^*$
 $$f'(k^*_{g})=n+\delta$$
+
 ### COMPARATIVE STATICS
-$s \uparrow:$ initially at steady state so no change, after savings increases $\frac{\Delta k}{k} >0$$\implies k^*$ increases, then back to steady state
+
+$s \uparrow:$ initially at steady state so no change, after savings increases $\frac{\Delta k}{k} >0$ $\implies k^*$ increases, then back to steady state
 
 - higher savings rate has ==*level*== effect **not** *growth* effect
 

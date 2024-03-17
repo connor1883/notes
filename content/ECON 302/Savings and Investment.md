@@ -1,8 +1,3 @@
-[[]]![[Lecture 6_slides final  (2).pdf]]
-
-TODO: factor analysis
-
-
 ### Investment
 
 - cost benefit decision to additional unit of $K$ = MPK

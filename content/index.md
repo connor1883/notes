@@ -1,3 +1,7 @@
+---
+title: Econ 302 Notes
+---
+
 # Topics
 
 ## Unit 1
