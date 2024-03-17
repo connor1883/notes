@@ -16,7 +16,9 @@ how to draw labor demand curve:
 Ind: relationship between *CURRENT* $w$ and quantity of labor supplied $(N)$
 
 **AGGREGATE**: no. of workers $\times$ individuals working hrs
+
 $N = T - \ell$
+
 $c = w(T-\ell)+V$
 
 

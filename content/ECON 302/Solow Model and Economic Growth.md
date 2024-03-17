@@ -12,7 +12,9 @@ A not directly observed but solved for implicitly
 $k_t:$ Capital-Labor ratio
 
 Production Function: (per worker)
+
 $$y_{t}= f(k_t)$$
+
 ![[Pasted Image 20240224210728.png|400]]
 
 diminishing MPK
@@ -20,6 +22,7 @@ diminishing MPK
 Aggregate demand (per worker): $y_t = c_t + i_t$
 
 Savings where s is saving rate
+
 $c_{t}= (1-s)y_t$
 
 investment(per worker): $i_{t}= y_{t}- c_{t} \implies sf(k_t)$
@@ -28,16 +31,17 @@ investment(per worker): $i_{t}= y_{t}- c_{t} \implies sf(k_t)$
 ![[Pasted Image 20240224211023.png|300]]
 
 Capital stock next period (**Capital Accumulation Equation**):
+
 $$k_{t+1}= k_{t}+ sf(k_{t})-\delta k_t$$
 >$$\Delta k_{t}=i_{t}-\delta k_t$$
 
 steady state occurs when $sf(k^*)=\delta k$, where $k^*$ is the steady state $k_t$
 - intersection of these two curves
+
 ![[Pasted Image 20240225113435.png|300]]
+
 Golden Rule capital labor ratio (maximizes consumption per worker):
 $c^*$ maxed when $f'(k^{*})=\delta$
-
->complicated stuff here
 
 #### Adding population growth
 
@@ -46,11 +50,15 @@ $c^*$ maxed when $f'(k^{*})=\delta$
 $$\Delta k_{t}= i_{t}- (n+ \delta) k_{t}$$
 
 Solow Model with Pop Growth:
+
 $$k_{t+1}- k_{t}= i_t-(n+\delta)k_t$$
+
 Steady state at: $sf(k^*) = (n+\delta)k^*$
 
 at steady state:
+
 $$k^{*}= \left(\frac{s}{n+\delta}\right)^\frac{1}{1-\alpha}$$
+
 higher $n$ decreases $k_t$ at steady state
 
 **Golden Rule $k_t$:** $f(k^*)(\delta + n)k^*$
@@ -163,9 +171,13 @@ Steady States:
 - tangent 
 	- one steady state
 - two steady states
+
 ![[Pasted Image 20240226175219.png|300]]
+
 ![[Pasted Image 20240226175350.png|300]]
+
 ![[Pasted Image 20240226175413.png|300]]
+
 countries that start poor will remain poor
 
 >Policy to break this trap:

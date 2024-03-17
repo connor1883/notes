@@ -4,7 +4,10 @@
 - investment becomes K with lag $\implies MPK^f$ 
 
 **User Cost of Capital**:  interest cost + deprecation
-$$\Large{uc = rp_{k}+ \delta p_k}$$$MPK^f > uc$: Increase K
+$$
+\Large{uc = rp_{k}+ \delta p_k}$$
+
+$MPK^f > uc:$ Increase K
 $MPK^{f}< uc:$ Decrease K
 
 #### Desired Capital Stock ($MPK^{f}= uc$) 
@@ -32,7 +35,9 @@ $$MPK^{f}= \frac{uc}{(1-\tau)}=\frac{(r+d)P_{k}}{1-\tau}$$
 $\tau \uparrow: K \downarrow$
 
 ### Savings and Consumption
+
 ![[Pasted image 20240223143728.png|400]]
+
 Saving allows for consumption smoothing
 
 **Budget Constraint**
@@ -64,17 +69,22 @@ $r:$ opposite IE for savers and borrowers, SE + IE make it ambiguous
 
 BC:
 $\large{(1+r)c_{1}+ c_{2}= (1+r)Y_{1}+ Y_2-(1+r)\tau_{1}-\tau_{2}}$
+
 lump sum tax does not affect individuals BC
-$\tau_{1}\downarrow$ has to be balanced by future tax increases
-$\implies$ lump-sum tax cuts do not affect $c_1$
-***Ricardian Equivalence***
+
+>[!note] Ricardian Equivalence
+> $\tau_{1}\downarrow$ has to be balanced by future tax increases
+> $\implies$ lump-sum tax cuts do not affect $c_1$
+
 
 
 > National Savings
 
 Private Savings = $(Y-T)-C$
+
 Gov Savings = $T-G$
 
 National Savings: $S_\text{pvt}+ S_\text{gov}$
+
 $Y-C-G$
 

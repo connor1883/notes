@@ -5,8 +5,11 @@ $$
 M^{D}= P[L(Y,i)]
 $$
 $P:$ price level
+
 $Y:$ real income or output
+
 $i:$ nominal interest rate on nonmonetary assets
+
 $L:$ function relating $M^D$ to $Y$ and $i$
 
 >can also write like this:
@@ -14,7 +17,9 @@ $L:$ function relating $M^D$ to $Y$ and $i$
 $$
 \frac{M^D}{P}=L(Y,r+\pi^e)
 $$
+
 $\frac{M^D}{P}$: Real Money Demand
+
 $r:$ real interest rate on nonmonetary assets
 $\pi^e:$ expected inflation rate
 
@@ -50,10 +55,13 @@ $\pi^e:$ expected inflation rate
 ### Money Market Equilibrium
 
 given by: $M^D = M^S$
+
 $$
 M^{S}= P \times L(Y,i)
 $$
+
 $P:$ price level
+
 $i:$ nominal interest rate on nonmonetary assets
 
 >At aggregate level for nonmonetary assets:
@@ -61,10 +69,13 @@ $i:$ nominal interest rate on nonmonetary assets
 $$
 M^{D}+NM^{D}= M^S + NM^S
 $$
+
 $$
 EQ\implies(M^{D}- M^S) + (NM^{D}- NM^{S})= 0
 $$
+
 $M:$ money
+
 $NM:$ nonmonetary assets
 
 > [!info] Price Level increases with Money Supply if Y flat
@@ -93,11 +104,11 @@ determined by FED
 
 > [!Example] Sale of Bonds
 > - Public buys bonds
-> - ==**decreases**== money supply
+> - ==decreases== money supply
 
 > [!Example] Purchase of Bonds
 > - Fed pays public using newly created money
-> - ==**increases**== money supply
+> - ==increases== money supply
 
 
 

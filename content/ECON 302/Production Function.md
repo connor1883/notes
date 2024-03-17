@@ -21,9 +21,12 @@ assuming diminishing marginal product of capital: as we increase $K$ it increase
 
 
 **Output Elasticity** ==JUST LOOK TO EXPONENT==
+
 Output Elasticity of Capital
 $$\frac{\Delta Y/Y}{\Delta K/K}=\frac{\partial \log(Y)}{\partial \log (K)}=\alpha$$
+
 Output Elasticity of Labor
+
 $$
 \frac{\Delta Y/Y}{\Delta N/N}=\frac{\partial \log(Y)}{\partial \log(N)}=\beta
 $$
