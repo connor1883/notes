@@ -12,12 +12,12 @@ $\implies Y-C^{d}-G = S^{d}=I^{d}$
 Equilibrium at $S^{d}= I^{d}$
 
 >[!info] Slope of Curves
->Investment curve is downwards sloping ($r$ and $I^d$ relationship)
->Savings curve is upwards sloping (same reason)
+> Investment curve is downwards sloping ($r$ and $I^d$ relationship)
+> Savings curve is upwards sloping (same reason)
 
 ![[Pasted image 20240224144136.png|400]]
 
-Factor analysis
+>[!info] Factor analysis
 
 ![[Pasted Image 20240226092552.png|400]]
 

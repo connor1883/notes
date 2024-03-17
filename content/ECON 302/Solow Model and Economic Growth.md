@@ -61,14 +61,15 @@ $$k^{*}= \left(\frac{s}{n+\delta}\right)^\frac{1}{1-\alpha}$$
 
 higher $n$ decreases $k_t$ at steady state
 
-**Golden Rule $k_t$:** $f(k^*)(\delta + n)k^*$
-$$f'(k^*_{g})=n+\delta$$
+>[!info] Golden Rule $k_t$:
+> $f(k^*)(\delta + n)k^*$
+> $$f'(k^*_{g})=n+\delta$$
 
 ### COMPARATIVE STATICS
 
 $s \uparrow:$ initially at steady state so no change, after savings increases $\frac{\Delta k}{k} >0$ $\implies k^*$ increases, then back to steady state
 
-- higher savings rate has ==*level*== effect **not** *growth* effect
+- higher savings rate has *level* effect **not** *growth* effect
 
 - positive relationship between savings rate and income per capita
 
@@ -105,7 +106,7 @@ $$Y_{t}= AK_t$$
 same per worker
 
 - constant returns to scale
->>>==**MPK constant (not diminishing)**==
+>>>==MPK constant (not diminishing)==
 
 **Supply of Goods and Services:** 
 >$y_{t}= Ak_t$
@@ -155,13 +156,15 @@ good institutions have regulatory framework to protect investors -> promotes inv
 
 #### Free Trade
 geographic differences can be used to study because they are correlated with trade and not other stuff
+
 $2\% \uparrow$ Trade/GDP$\implies1\% \uparrow$ GDP per capita 
 - trade gives access to foreign tech, know-how, and investment
 - comparative advantage
 #### Poverty Trap
 
 each period there is fixed amount of income that must be consumed  $\theta N_t$ between 0 and 1 
-cap acc.
+
+cap accumulation:
 
 $$\Delta k_t = sAk_t^\alpha-s\theta-(n+\delta)k_t$$
 

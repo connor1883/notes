@@ -1,14 +1,15 @@
 > Def: Assets widely used and accepted as payment
 
->[!missing]  Money $\neq$ Wealth
+>[!missing]  Money ≠ Wealth
 
 **Commodity Money:** commodity with intrinsic value
+
 **Fiat Money:** money without intrinsic value used by government decree
 
 ### Three Functions of Money
 
 >[!example]+ Medium of Exchange
-Facilitates the sale/purchase of goods and services
+>Facilitates the sale/purchase of goods and services
 
 >[!example]+ Store of Value
 >Retains purchasing power over time
@@ -32,6 +33,6 @@ Facilitates the sale/purchase of goods and services
 > Def: quantity of money people want to hold
 
 > [!info] Demand for Money
-> People demand money because they need liquidity
-> Cost of holding money is opportunity cost
+> - People demand money because they need liquidity
+> - Cost of holding money is opportunity cost
 
