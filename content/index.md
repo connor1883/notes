@@ -1,5 +1,5 @@
 ---
-Index
+title: Index
 ---
 ## Unit 1
 
