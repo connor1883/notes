@@ -1,5 +1,5 @@
 ---
-title: Econ 302 Notes
+Index
 ---
 ## Unit 1
 
