@@ -9,6 +9,7 @@ $$
 $$
 
 $MPK^f > uc:$ Increase K
+
 $MPK^{f}< uc:$ Decrease K
 
 #### Desired Capital Stock ($MPK^{f}= uc$) 
@@ -95,5 +96,5 @@ Gov Savings = $T-G$
 
 National Savings: $S_\text{pvt}+ S_\text{gov}$
 
-$Y-C-G$
+> $Y-C-G$
 

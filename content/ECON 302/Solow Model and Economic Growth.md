@@ -61,8 +61,9 @@ $$k^{*}= \left(\frac{s}{n+\delta}\right)^\frac{1}{1-\alpha}$$
 
 higher $n$ decreases $k_t$ at steady state
 
->[!info] Golden Rule $k_t$:
+>[!info] Golden Rule Capital-Labor Ratio:
 > $f(k^*)(\delta + n)k^*$
+>
 > $$f'(k^*_{g})=n+\delta$$
 
 ### COMPARATIVE STATICS

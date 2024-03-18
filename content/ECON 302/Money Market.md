@@ -86,8 +86,11 @@ $$
 MV = PY
 $$
 $M:$ Money supply
+
 $P:$ Price level
+
 $Y:$ real income or real GDP of economy
+
 $V:$ Velocity of money $\left(V= \frac{PY}{M} \right)$
 
 >[!example] Quantity theory implications
@@ -99,8 +102,8 @@ $V:$ Velocity of money $\left(V= \frac{PY}{M} \right)$
 determined by FED
 
 **Open-Market Operations**
-> Purchase and sale of treasuries by the FED
-> primary tool of FED to control $M^S$
+- Purchase and sale of treasuries by the FED
+- primary tool of FED to control $M^S$
 
 > [!Example] Sale of Bonds
 > - Public buys bonds
